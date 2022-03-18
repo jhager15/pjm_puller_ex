@@ -1,0 +1,20 @@
+
+acct_lens = {
+    'COMED':10,
+    'JCPL':20,
+    'PSEG':20,
+    'PECO':10,
+    'BGE':10,
+    'METED':20,
+    'PPL':10,
+    'OHIOED':20,
+    'Cleveland':20,
+    'Toledo':20,
+    'AEP':17,
+    'RGE':15,
+    'PEPCO':22,
+    'NYSEG':15,
+    'PSEG_NG': 20,
+    'Nat_Grid_NY': 10,
+    'Nat_Grid_LI': 10,
+}
